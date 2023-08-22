@@ -57,7 +57,7 @@ Les bilbiothéques/frameworks utilisés pour mettre en oeuvre le projet comprend
 
 la version nodejs a installer est suivant le lien :
 
-https://nodejs.org/en/blog/release/v14.20.0
+``` https://nodejs.org/en/blog/release/v14.20.0 ```
 
 sinon y aura des problémes dinitialisation de projet.
 
