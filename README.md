@@ -1,4 +1,27 @@
-çi-dessous, les bibliothèques et les frameworks que j'ai trouvés sur ton projet GitHub :
+# Introduction 
+
+Ce projet est une application Web qui permet aux utilisateurs de créer et de gérer des calendriers. L'application est écrite en JavaScript et utilise React et Next.js.
+
+L'application est conçue pour être simple à utiliser et à naviguer. Les utilisateurs peuvent facilement créer des calendriers, ajouter des événements à leurs calendriers, partager leurs calendriers avec d'autres utilisateurs et exporter leurs calendriers au format iCal.
+
+L'application est également conçue pour être collaborative. Les utilisateurs peuvent facilement partager leurs calendriers avec d'autres utilisateurs, ce qui permet de collaborer plus facilement sur des projets.
+
+L'application permet également de garder une trace de événements de ces utilisateurs et de rester organisés. L'application est facile à utiliser et à naviguer, et elle est conçue pour être collaborative.
+
+En plus des fonctionnalités mentionnées ci-dessus, l'application dispose également des fonctionnalités suivantes :
+
+* Intégration de l'API Google Calendar
+* Importation et exportation des calendriers
+* Notifications pour les événements à venir
+* Partage des calendriers avec d'autres utilisateurs
+
+L'application est une application puissante et polyvalente qui peut être utilisée par les personnes de tous les horizons. Si vous êtes à la recherche d'une application pour vous aider à garder une trace de vos événements et à rester organisé, l'application est la solution idéale pour vous.
+
+Merci pour votre intérêt pour notre projet!
+
+# Biblios et Framework exploité(e)s
+
+Les bilbiothéques/frameworks utilisés pour mettre en oeuvre le projet comprend la liste suivante :
 
 | <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" alt="Description de l'image" width="300" > | React est une bibliothèque JavaScript pour créer des interfaces utilisateur. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets d'interface utilisateur. |
 |---|---|
@@ -30,16 +53,52 @@
 | <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oPL8C-i04sqAUoOS_da9aA.jpeg" alt="Description de l'image" width="400" > | tailwindcss est une bibliothèque CSS qui fournit une variété de classes CSS prêtes à l'emploi. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'utiliser des classes CSS prêtes à l'emploi. |
 |---|---|
 
+# Organisation et Arborescence du repos
 
-# Getting Started with Create React App
+voici l'arborescence complète du projet :
+
+```
+.
+├── README.md
+├── .env.example
+├── .eslintrc.js
+├── .gitignore
+├── .prettierrc
+├── next.config.js
+├── package.json
+├── public
+│   └── index.html
+├── src
+│   ├── components
+│   │   ├── Calendar
+│   │   └── Event
+│   ├── pages
+│   │   ├── calendar
+│   │   │   ├── index.js
+│   │   │   └── styles.css
+│   │   └── events
+│   │       ├── index.js
+│   │       └── styles.css
+│   └── styles
+│       └── index.css
+└── test
+    └── unit
+        └── calendar
+            ├── calendar.test.js
+            └── event.test.js
+```
+
+# Mise en déploiement coté Dev :
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -47,12 +106,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -62,7 +121,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -72,33 +131,33 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+#### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+#### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+#### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+#### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+#### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
