@@ -55,6 +55,12 @@ Les bilbiothéques/frameworks utilisés pour mettre en oeuvre le projet comprend
 
 # Installation des Dependencies
 
+la version nodejs a installer est suivant le lien :
+
+https://nodejs.org/en/blog/release/v14.20.0
+
+sinon y aura des problémes dinitialisation de projet.
+
 Dépendance pour le dévelopement :
 ``` npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ```
 
