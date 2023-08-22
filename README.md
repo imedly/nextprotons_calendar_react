@@ -53,6 +53,48 @@ Les bilbiothéques/frameworks utilisés pour mettre en oeuvre le projet comprend
 | <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oPL8C-i04sqAUoOS_da9aA.jpeg" alt="Description de l'image" width="400" > | tailwindcss est une bibliothèque CSS qui fournit une variété de classes CSS prêtes à l'emploi. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'utiliser des classes CSS prêtes à l'emploi. |
 |---|---|
 
+# Installation des Dependencies
+
+Dépendance pour le dévelopement :
+``` npm install -D tailwindcss@latest postcss@latest autoprefixer@latest ```
+
+Dépendances directes :
+``` npm install @craco/craco dayjs @tailwindcss/forms ```
+
+Documentations :
+Réferer vers la documentations officielles de TailWind suivant le lien 
+``` https://tailwindcss.com/docs/guides/create-react-app ```
+
+Pour récuperer les fonts et Icons reférer vous suivant les liens ```
+ https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp
+ https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap ```
+    
+# Fonctionalités et utilisations
+<p data-sourcepos="9:1-9:47">Les fonctionnalités de l'application incluent :</p>
+    <ul data-sourcepos="11:1-18:0">
+        <li data-sourcepos="11:1-11:41">Création et gestion de listes de tâches</li>
+        <li data-sourcepos="12:1-12:42">Assignation de tâches à des utilisateurs</li>
+        <li data-sourcepos="13:1-13:48">Définition de dates d'échéance pour les tâches</li>
+        <li data-sourcepos="14:1-14:34">Suivi de l'avancement des tâches</li>
+        <li data-sourcepos="15:1-15:39">Notifications pour les tâches à venir</li>
+        <li data-sourcepos="16:1-16:49">Importation et exportation des listes de tâches</li>
+        <li data-sourcepos="17:1-18:0">Partage des listes de tâches avec d'autres utilisateurs</li>
+    </ul>
+
+### Utilisation de l'application
+
+Notre application est conçue pour simplifier la gestion de tâches quotidiennes. Voici comment vous pouvez l'utiliser :
+<ul data-sourcepos="11:1-18:0">
+    <li data-sourcepos="11:1-11:41">**Inscription ou Connexion** : Si vous êtes un nouvel utilisateur, commencez par vous inscrire en fournissant vos informations personnelles. Si vous avez déjà un compte, connectez-vous avec vos identifiants.</li>
+<li data-sourcepos="11:1-11:41">**Tableau de Bord** : Après la connexion, vous serez redirigé vers le tableau de bord principal. Ici, vous verrez un aperçu de vos tâches actives, vos projets en cours, et d'autres informations pertinentes.</li>
+<li data-sourcepos="11:1-11:41">**Création de Tâches** : Pour ajouter une nouvelle tâche, cliquez sur le bouton "Ajouter Tâche". Renseignez les détails de la tâche, comme le titre, la date d'échéance et la description. Ensuite, cliquez sur "Enregistrer" pour ajouter la tâche à votre liste.</li>
+<li data-sourcepos="11:1-11:41">**Visualisation et Gestion** : Dans votre liste de tâches, vous pouvez voir les tâches triées par date d'échéance. Cliquez sur une tâche pour afficher plus de détails et éventuellement la marquer comme terminée.</li>
+<li data-sourcepos="11:1-11:41">**Gestion de Projets** : Si vous travaillez sur des projets plus larges, vous pouvez créer des projets et organiser vos tâches en conséquence. Vous pouvez ajouter des tâches à des projets spécifiques pour une meilleure organisation.</li>
+<li data-sourcepos="11:1-11:41">**Notifications** : L'application enverra des notifications pour les tâches à venir et les dates d'échéance. Assurez-vous d'activer les notifications pour ne pas manquer les tâches importantes.</li>
+<li data-sourcepos="11:1-11:41">**Personnalisation** : Vous pouvez personnaliser votre profil et vos préférences dans les paramètres de l'application. Modifiez votre image de profil, ajustez les rappels et configurez d'autres options selon vos besoins.</li>
+<li data-sourcepos="11:1-11:41">**Déconnexion** : Lorsque vous avez terminé, assurez-vous de vous déconnecter pour sécuriser votre compte.</li>
+</ul>
+
 # Organisation et Arborescence du repos
 
 voici l'arborescence complète du projet :
