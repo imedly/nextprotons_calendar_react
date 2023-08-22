@@ -1,3 +1,36 @@
+çi-dessous, les bibliothèques et les frameworks que j'ai trouvés sur ton projet GitHub :
+
+| <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" alt="Description de l'image" width="300" > | React est une bibliothèque JavaScript pour créer des interfaces utilisateur. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets d'interface utilisateur. |
+|---|---|
+
+| <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd3omc5vp71r5k9z69b4.png" alt="Description de l'image" width="250" > | Next.js est un framework React qui permet de créer des applications Web statiques et dynamiques. Il est populaire pour sa vitesse, sa scalabilité et sa facilité d'utilisation. |
+|---|---|
+
+| <img src="https://blog.logrocket.com/wp-content/uploads/2021/08/default-styling-react-calendar.png" alt="Description de l'image" width="300" > | Calendrier React est une bibliothèque React qui permet de créer des calendriers. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets de calendrier. |
+|---|---|
+
+| <img src="https://ucarecdn.com/95a1afed-cc7c-45d8-b74e-9c3adc6b9430/-/format/auto/-/progressive/yes/-/preview/2048x2048/" alt="Description de l'image" width="400" > | date-fns est une bibliothèque JavaScript qui fournit une variété de fonctions pour manipuler les dates et les heures. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent de manipuler les dates et les heures. |
+|---|---|
+
+| <img src="https://miro.medium.com/v2/resize:fit:640/0*LPvu8HCNQfYNPK7I" alt="Description de l'image" width="400" > | react-helmet est une bibliothèque React qui permet d'ajouter des métadonnées à la page HTML. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'ajouter des métadonnées à la page HTML. |
+|---|---|
+
+| <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Fp3q-3G9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ke6hqywlnr8b3r896hii.png" alt="Description de l'image" width="350" > | react-icons est une bibliothèque React qui fournit une variété d'icônes. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'utiliser des icônes. |
+|---|---|
+
+| <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*vD4mY6iEQ34HTcAYyPTlnw.png" alt="Description de l'image" width="350" > | react-query est une bibliothèque React qui permet de gérer l'état des données. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent de gérer l'état des données. |
+|---|---|
+
+| <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Zb9Uoad33rLb7v03.png" alt="Description de l'image" width="350" > | react-router-dom est une bibliothèque React qui permet de gérer l'itinéraire d'une application Web. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent une navigation entre différentes pages. |
+|---|---|
+
+| <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8oEEQ%2FbtqCB81szbm%2FoQ0nb1HQG4GGidFtKjJmn1%2Fimg.png" alt="Description de l'image" width="300" > | styled-components est une bibliothèque React pour créer des styles CSS. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent des styles CSS. |
+|---|---|
+
+| <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oPL8C-i04sqAUoOS_da9aA.jpeg" alt="Description de l'image" width="400" > | tailwindcss est une bibliothèque CSS qui fournit une variété de classes CSS prêtes à l'emploi. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'utiliser des classes CSS prêtes à l'emploi. |
+|---|---|
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
