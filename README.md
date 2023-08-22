@@ -136,6 +136,17 @@ voici l'arborescence complète du projet :
             └── event.test.js
 ```
 
+# Exemples d'utilisation 
+### Capture screen 1  
+<img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-36-50.png" alt="Capture_Image_1" > 
+
+### Capture screen 2  
+<img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-37-20.png" alt="Capture_Image_2" > 
+
+### Capture screen 3 
+<img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-37-43.png" alt="Capture_Image_3" > 
+
+
 # Mise en déploiement coté Dev :
 
 ## Getting Started with Create React App
