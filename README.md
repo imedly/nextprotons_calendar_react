@@ -220,6 +220,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
 # Remarques et idées de contributions
 
 Voici quelques idées de fonctionnalités que je planifie rajouter :
@@ -234,7 +235,7 @@ Voici quelques idées de fonctionnalités que je planifie rajouter :
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## Authors
+# Authors
 
-Visiter mes projets sur <a href="https://github.com/imedly">El Mehdi Iddouch</a>.
+Visiter mes projets Github sur <a href="https://github.com/imedly">El Mehdi Iddouch</a>.
 
