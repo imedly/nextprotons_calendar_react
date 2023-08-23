@@ -164,18 +164,24 @@ Voici les fichiers sur lesquels il y a une distinction entre le backend et le fr
     * `App.css`
     * `App.js`
     * `index.html`
+
 Les fichiers dans le dossier backend sont responsables du traitement des demandes des utilisateurs et de la fourniture des données au frontend. Les fichiers dans le dossier frontend sont responsables de la présentation des données aux utilisateurs et de la gestion de l'interaction de l'utilisateur avec l'application.
 
 Voici une description plus détaillée de chaque fichier :
 
 ```app.js``` est le fichier principal du backend. Il charge les autres fichiers du backend et démarre le serveur.
-```database.js``` contient le code pour se connecter à la base de données et pour effectuer des requêtes sur la base de données.
-```routes.js``` contient le code pour définir les routes de l'application. Les routes déterminent comment l'application répond aux demandes des utilisateurs.
-```server.js``` est le fichier qui démarre le serveur. Il charge les autres fichiers du backend et les rend disponibles sur le réseau.
-```App.css``` est le fichier CSS pour le frontend. Il contient le code pour définir le style de l'application.
-```App.js``` est le fichier JavaScript pour le frontend. Il contient le code pour le comportement de l'application.
-```index.html``` est le fichier HTML pour le frontend. Il contient le code pour la structure de l'application.
 
+```database.js``` contient le code pour se connecter à la base de données et pour effectuer des requêtes sur la base de données.
+
+```routes.js``` contient le code pour définir les routes de l'application. Les routes déterminent comment l'application répond aux demandes des utilisateurs.
+
+```server.js``` est le fichier qui démarre le serveur. Il charge les autres fichiers du backend et les rend disponibles sur le réseau.
+
+```App.css``` est le fichier CSS pour le frontend. Il contient le code pour définir le style de l'application.
+
+```App.js``` est le fichier JavaScript pour le frontend. Il contient le code pour le comportement de l'application.
+
+```index.html``` est le fichier HTML pour le frontend. Il contient le code pour la structure de l'application.
 
 # Mise en déploiement coté Dev :
 
