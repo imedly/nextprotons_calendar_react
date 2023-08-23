@@ -91,14 +91,14 @@ Pour récuperer les fonts et Icons reférer vous suivant les liens ```
 
 Notre application est conçue pour simplifier la gestion de tâches quotidiennes. Voici comment vous pouvez l'utiliser :
 <ul data-sourcepos="11:1-18:0">
-    <li data-sourcepos="11:1-11:41">**Inscription ou Connexion** : Si vous êtes un nouvel utilisateur, commencez par vous inscrire en fournissant vos informations personnelles. Si vous avez déjà un compte, connectez-vous avec vos identifiants.</li>
-<li data-sourcepos="11:1-11:41">**Tableau de Bord** : Après la connexion, vous serez redirigé vers le tableau de bord principal. Ici, vous verrez un aperçu de vos tâches actives, vos projets en cours, et d'autres informations pertinentes.</li>
-<li data-sourcepos="11:1-11:41">**Création de Tâches** : Pour ajouter une nouvelle tâche, cliquez sur le bouton "Ajouter Tâche". Renseignez les détails de la tâche, comme le titre, la date d'échéance et la description. Ensuite, cliquez sur "Enregistrer" pour ajouter la tâche à votre liste.</li>
-<li data-sourcepos="11:1-11:41">**Visualisation et Gestion** : Dans votre liste de tâches, vous pouvez voir les tâches triées par date d'échéance. Cliquez sur une tâche pour afficher plus de détails et éventuellement la marquer comme terminée.</li>
-<li data-sourcepos="11:1-11:41">**Gestion de Projets** : Si vous travaillez sur des projets plus larges, vous pouvez créer des projets et organiser vos tâches en conséquence. Vous pouvez ajouter des tâches à des projets spécifiques pour une meilleure organisation.</li>
-<li data-sourcepos="11:1-11:41">**Notifications** : L'application enverra des notifications pour les tâches à venir et les dates d'échéance. Assurez-vous d'activer les notifications pour ne pas manquer les tâches importantes.</li>
-<li data-sourcepos="11:1-11:41">**Personnalisation** : Vous pouvez personnaliser votre profil et vos préférences dans les paramètres de l'application. Modifiez votre image de profil, ajustez les rappels et configurez d'autres options selon vos besoins.</li>
-<li data-sourcepos="11:1-11:41">**Déconnexion** : Lorsque vous avez terminé, assurez-vous de vous déconnecter pour sécuriser votre compte.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Inscription ou Connexion </h6> Si vous êtes un nouvel utilisateur, commencez par vous inscrire en fournissant vos informations personnelles. Si vous avez déjà un compte, connectez-vous avec vos identifiants.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Tableau de Bord </h6> Après la connexion, vous serez redirigé vers le tableau de bord principal. Ici, vous verrez un aperçu de vos tâches actives, vos projets en cours, et d'autres informations pertinentes.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Création de Tâches </h6> Pour ajouter une nouvelle tâche, cliquez sur le bouton "Ajouter Tâche". Renseignez les détails de la tâche, comme le titre, la date d'échéance et la description. Ensuite, cliquez sur "Enregistrer" pour ajouter la tâche à votre liste.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Visualisation et Gestion </h6> Dans votre liste de tâches, vous pouvez voir les tâches triées par date d'échéance. Cliquez sur une tâche pour afficher plus de détails et éventuellement la marquer comme terminée.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Gestion de Projets </h6> Si vous travaillez sur des projets plus larges, vous pouvez créer des projets et organiser vos tâches en conséquence. Vous pouvez ajouter des tâches à des projets spécifiques pour une meilleure organisation.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Notifications </h6> L'application enverra des notifications pour les tâches à venir et les dates d'échéance. Assurez-vous d'activer les notifications pour ne pas manquer les tâches importantes.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Personnalisation </h6> Vous pouvez personnaliser votre profil et vos préférences dans les paramètres de l'application. Modifiez votre image de profil, ajustez les rappels et configurez d'autres options selon vos besoins.</li>
+    <li data-sourcepos="11:1-11:41"><h6>Déconnexion </h6> Lorsque vous avez terminé, assurez-vous de vous déconnecter pour sécuriser votre compte.</li>
 </ul>
 
 # Organisation et Arborescence du repos
