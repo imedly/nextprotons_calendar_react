@@ -220,6 +220,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+# Remarques et idées de contributions
+
+Voici quelques idées de fonctionnalités que je planifie rajouter :
+
+* **La possibilité d'ajouter des événements récurrents.** Cela permettrait aux utilisateurs de planifier des événements qui se reproduisent à une fréquence régulière, comme les réunions hebdomadaires ou les anniversaires.
+* **La possibilité d'ajouter des rappels pour les événements.** Cela permettrait aux utilisateurs de ne pas oublier leurs événements importants.
+* **La possibilité de partager des événements avec d'autres personnes.** Cela permettrait aux utilisateurs de collaborer sur des événements plus facilement.
+* **La possibilité d'exporter des événements dans un format CSV ou PDF.** Cela permettrait aux utilisateurs d'exporter leurs données de calendrier pour les conserver ou les partager avec d'autres.
+* **La possibilité d'importer des événements à partir d'un fichier CSV ou PDF.** Cela permettrait aux utilisateurs d'importer leurs données de calendrier à partir d'autres sources.
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
