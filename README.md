@@ -53,7 +53,7 @@ Les bilbiothéques/frameworks utilisés pour mettre en oeuvre le projet comprend
 | <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oPL8C-i04sqAUoOS_da9aA.jpeg" alt="Description de l'image" width="400" > | tailwindcss est une bibliothèque CSS qui fournit une variété de classes CSS prêtes à l'emploi. C'est une bibliothèque populaire et bien documentée, ce qui en fait un choix idéal pour développer des projets qui nécessitent d'utiliser des classes CSS prêtes à l'emploi. |
 |---|---|
 
-# Installation des Dependencies
+# Installation des Dépendences
 
 la version nodejs a installer est suivant le lien :
 
@@ -137,13 +137,17 @@ voici l'arborescence complète du projet :
 ```
 
 # Exemples d'utilisation 
+
 ### Capture screen 1  
+
 <img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-36-50.png" alt="Capture_Image_1" > 
 
 ### Capture screen 2  
+
 <img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-37-20.png" alt="Capture_Image_2" > 
 
 ### Capture screen 3 
+
 <img src="https://github.com/imedly/nextprotons_calendar_react/blob/master/public/Capture%20d%E2%80%99%C3%A9cran%20du%202023-08-22%2022-37-43.png" alt="Capture_Image_3" > 
 
 # Structure du code de l'application
@@ -183,7 +187,7 @@ Voici une description plus détaillée de chaque fichier :
 
 ```index.html``` est le fichier HTML pour le frontend. Il contient le code pour la structure de l'application.
 
-# Mise en déploiement coté Dev :
+# Mise en déploiement (Script original de Facebook Docs)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -269,7 +273,7 @@ Voici quelques idées de fonctionnalités que je planifie rajouter :
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-# Authors
+# Auteurs
 
 Visiter mes projets Github sur <a href="https://github.com/imedly">El Mehdi Iddouch</a>.
 
